@@ -152,6 +152,9 @@ p {
 
   .footer-contact-us {
     padding: 5rem 5rem 5rem 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
