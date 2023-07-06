@@ -131,6 +131,16 @@ p {
   }
 }
 
+@media screen and (max-width: 1020px) {
+  .footer-contact-us {
+    padding: 5rem 5rem 5rem 5rem;
+  }
+
+  .texts {
+    gap: 5vw;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .footer-container {
     flex-wrap: wrap;
