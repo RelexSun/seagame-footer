@@ -94,6 +94,11 @@ p {
 
 .volunteer {
   margin-top: 2rem;
+  transition: 0.3s ease-in-out;
+}
+
+.volunteer:hover {
+  transform: scale(1.05);
 }
 
 .line-divider {
